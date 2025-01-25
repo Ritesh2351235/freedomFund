@@ -5,10 +5,10 @@ import axios from 'axios';
 
 function App() {
   const bookCovers = [
-    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/physocologyofmoney.jpg",
-    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/richdad.jpg",
-    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/thinkandgrowrich.jpg",
-    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/intelligentinvestor.jpg"
+    "https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/physocologyofmoney.jpg",
+    "https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/richdad.jpg",
+    "https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/thinkandgrowrich.jpg",
+    "https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/intelligentinvestor.jpg"
   ];
 
   const [isLoading, setIsLoading] = useState(false);
