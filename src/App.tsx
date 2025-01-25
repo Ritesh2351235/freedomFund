@@ -5,10 +5,10 @@ import axios from 'axios';
 
 function App() {
   const bookCovers = [
-    "src/logos/physocologyofmoney.jpg",
-    "src/logos/richdad.jpg",
-    "src/logos/thinkandgrowrich.jpg",
-    "src/logos/intelligentinvestor.jpg"
+    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/physocologyofmoney.jpg",
+    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/richdad.jpg",
+    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/thinkandgrowrich.jpg",
+    "https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/intelligentinvestor.jpg"
   ];
 
   const [isLoading, setIsLoading] = useState(false);
@@ -118,12 +118,12 @@ function App() {
 
               <div className="flex items-center gap-10">
                 <img
-                  src="src/logos/agentai.png"
+                  src="https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/agentai.png"
                   alt="Brand 1 Logo"
                   className="h-12 object-contain"
                 />
                 <img
-                  src="src/logos/dev.png"
+                  src="https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/dev.png"
                   alt="Brand 2 Logo"
                   className="h-12 object-contain"
                 />
