@@ -118,12 +118,12 @@ function App() {
 
               <div className="flex items-center gap-10">
                 <img
-                  src="https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/agentai.png"
+                  src="https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/agentai.png"
                   alt="Brand 1 Logo"
                   className="h-12 object-contain"
                 />
                 <img
-                  src="https://github.com/Ritesh2351235/freedomFund/blob/main/src/logos/dev.png"
+                  src="https://raw.githubusercontent.com/Ritesh2351235/freedomFund/main/src/logos/dev.png"
                   alt="Brand 2 Logo"
                   className="h-12 object-contain"
                 />
