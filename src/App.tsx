@@ -110,10 +110,12 @@ function App() {
               Our platform provides clear insights into your finances and a personalized plan to achieve financial freedom. Learn smart money management, master growth strategies, and unlock the power of financial literacy. Start building wealth today—because managing your money wisely is the key to lasting success.
             </p>
 
-            <button className="group inline-flex items-center mt-2 gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-full text-md font-semibold transition-all hover:from-blue-700 hover:to-purple-700 animate-fade-in-delay-2">
-              Start Your Journey
-              <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
-            </button>
+            <a href="https://agent.ai/profile/liox4t09tgqnmks5" target="_blank" rel="noopener noreferrer">
+              <button className="group inline-flex items-center mt-2 gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-full text-md font-semibold transition-all hover:from-blue-700 hover:to-purple-700 animate-fade-in-delay-2">
+                Visit Agent.ai
+                <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              </button>
+            </a>
             <div className="flex flex-col items-start  animate-fade-in-delay-3">
 
               <div className="flex items-center gap-10">

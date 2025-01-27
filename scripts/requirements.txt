@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+pandas
+seaborn
+matplotlib
+beautifulsoup4
+pydantic
